@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\program C#\MyprogramC\Project2\Project2\源.cpp(38,1): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  Project2.vcxproj -> D:\program C#\MyprogramC\Project2\Debug\Project2.exe
