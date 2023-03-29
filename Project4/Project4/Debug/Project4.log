@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\program C#\MyprogramC\Project4\Project4\源.cpp(10,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\program C#\MyprogramC\Project4\Project4\源.cpp(22,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project4.vcxproj -> D:\program C#\MyprogramC\Project4\Debug\Project4.exe
