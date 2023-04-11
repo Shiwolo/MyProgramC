@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project5(类构造函数,类运算符重载)", "Project5(类构造函数,类运算符重载)\Project5(类构造函数,类运算符重载).vcxproj", "{771676F0-AA60-423F-AD65-7C1EBD356C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771676F0-AA60-423F-AD65-7C1EBD356C6E}.Debug|x64.ActiveCfg = Debug|x64
+		{771676F0-AA60-423F-AD65-7C1EBD356C6E}.Debug|x64.Build.0 = Debug|x64
+		{771676F0-AA60-423F-AD65-7C1EBD356C6E}.Debug|x86.ActiveCfg = Debug|Win32
+		{771676F0-AA60-423F-AD65-7C1EBD356C6E}.Debug|x86.Build.0 = Debug|Win32
+		{771676F0-AA60-423F-AD65-7C1EBD356C6E}.Release|x64.ActiveCfg = Release|x64
+		{771676F0-AA60-423F-AD65-7C1EBD356C6E}.Release|x64.Build.0 = Release|x64
+		{771676F0-AA60-423F-AD65-7C1EBD356C6E}.Release|x86.ActiveCfg = Release|Win32
+		{771676F0-AA60-423F-AD65-7C1EBD356C6E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E08E5C9-2D23-4F6B-94DB-DEEF4E4E75EB}
+	EndGlobalSection
+EndGlobal
